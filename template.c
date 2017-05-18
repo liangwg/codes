@@ -1,10 +1,9 @@
-/*
-Ë®Ìâ
-Ò»Ğ©Ïë·¨ 
-*/ 
+ï»¿/*
+
+*/
 
 #include <stdlib.h>
 int main(){
 	
-	
+	return 0;
 } 
